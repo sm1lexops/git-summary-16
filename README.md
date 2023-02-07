@@ -2,6 +2,7 @@
 
 ```
 git config --global -l #show ~/.gitconfig file
+git commit --amend # change last commit
 
 ```
 
