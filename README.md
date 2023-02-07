@@ -6,7 +6,7 @@ git commit --amend # change last commit
 
 ```
 
-# Tips in this task
+### Tips in this task
 
 ```
 mkdir git-summary-16 && cd git-summary-16
