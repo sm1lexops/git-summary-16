@@ -1,1 +1,1 @@
-### Knowledge will break the chain of slavery
+@ Trust your soul
